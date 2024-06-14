@@ -62,6 +62,11 @@
   color: #148EE6;
 }
 
+.container .calendar > .days-grid > .day:hover {
+  background-color: #E5F4FF;
+  color: var(--color-fg-primary);
+}
+
 .container .calendar > .days-grid > .day.today:before {
   content: "";
   display: block;
