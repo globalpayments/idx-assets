@@ -117,9 +117,9 @@
   background-color: var(--color-bg-default);
 }
 
-/* .container .preset-plugin-container > button:first-child {
+.container .preset-plugin-container > button:first-child {
   display: none;
-} */
+} 
 
 .container .preset-plugin-container > button {
   border: 1px solid #F1F2F4;
